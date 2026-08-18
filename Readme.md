@@ -380,9 +380,9 @@ git push origin feature/ma-fonctionnalite
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Nin-Shinobi">
-        <img src="https://github.com/Nin-Shinobi.png" width="80" style="border-radius:50%"/><br/>
-        <strong>Nin-Shinobi</strong>
+      <a href="https://github.com/nyx-deb">
+        <img src="https://github.com/nyx-deb.png" width="80" style="border-radius:50%"/><br/>
+        <strong>Nyx</strong>
       </a>
       <br/>
     </td>
